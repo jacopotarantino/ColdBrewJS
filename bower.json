@@ -1,0 +1,26 @@
+{
+  "name": "ColdBrewJS",
+  "version": "0.0.0",
+  "authors": [
+    "Jack <jack@ofspades.com>"
+  ],
+  "description": "Extra strong JavaScript.",
+  "main": "index.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "cold",
+    "brew",
+    "javascript"
+  ],
+  "license": "Creative Commons Attribution-ShareAlike 4.0 International License",
+  "homepage": "https://jack.ofspades.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

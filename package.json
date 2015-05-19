@@ -1,0 +1,24 @@
+{
+  "name": "ColdBrewJS",
+  "version": "0.0.0",
+  "description": "Extra strong JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacopotarantino/ColdBrewJS.git"
+  },
+  "keywords": [
+    "cold",
+    "brew",
+    "javascript"
+  ],
+  "author": "Jack <jack@ofspades.com>",
+  "license": "Creative Commons Attribution-ShareAlike 4.0 International License",
+  "bugs": {
+    "url": "https://github.com/jacopotarantino/ColdBrewJS/issues"
+  },
+  "homepage": "https://github.com/jacopotarantino/ColdBrewJS"
+}
